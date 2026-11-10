@@ -1,17 +1,20 @@
-# fashion_store
+# Fashion Store
 
-A new Flutter project.
+A Flutter fashion shopping app with product browsing, search, favorites, a shopping cart, and checkout screens.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Browse fashion products and collections
+- Search the product catalog
+- View product details
+- Add products to favorites or the cart
+- Change cart quantities
+- Navigate through checkout screens
 
-A few resources to get you started if this is your first Flutter project:
+## Run the app
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/Mo82566/fashion-store.git
+cd fashion-store
+flutter pub get
+flutter run
