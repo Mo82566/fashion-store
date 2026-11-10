@@ -1,5 +1,5 @@
 name: fashion_store
-description: "A new Flutter project."
+description: "A Flutter fashion shopping app with product browsing, favorites, cart, and checkout screens."
 publish_to: 'none'
 version: 1.0.0+1
 
