@@ -30,4 +30,10 @@ ${ticks}
 | :---: | :---: | :---: |
 | <img src="assets/Screenshot_1794254033.png" width="220" /> | <img src="assets/Screenshot_1794254103.png" width="220" /> | <img src="assets/Screenshot_1794254120.png" width="220" /> |
 | <img src="assets/Screenshot_1794254131.png" width="220" /> | <img src="assets/Screenshot_1794254150.png" width="220" /> | <img src="assets/Screenshot_1794254174.png" width="220" /> |
+| <img src="assets/Screenshot_1794254196.png" width="220" /> | <img src="assets/Screenshot_1794254203.png" width="220" /> | <img src="assets/Screenshot_1794254216.png" width="220" /> |
+| <img src="assets/Screenshot_1794254274.png" width="220" /> | <img src="assets/Screenshot_1794254295.png" width="220" /> | <img src="assets/Screenshot_1794254601.png" width="220" /> |
+| <img src="assets/Screenshot_1794254604.png" width="220" /> | <img src="assets/Screenshot_1794254606.png" width="220" /> | <img src="assets/Screenshot_1794254608.png" width="220" /> |
+| <img src="assets/Screenshot_1794254623.png" width="220" /> | <img src="assets/Screenshot_1794254631.png" width="220" /> | <img src="assets/Screenshot_1794254637.png" width="220" /> |
+| <img src="assets/Screenshot_1794254639.png" width="220" /> | <img src="assets/Screenshot_1794254643.png" width="220" /> | <img src="assets/Screenshot_1794254648.png" width="220" /> |
+| <img src="assets/Screenshot_1794254871.png" width="220" /> | | |
 "@ | Set-Content .\README.md -Encoding UTF8
