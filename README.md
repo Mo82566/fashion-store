@@ -29,4 +29,5 @@ ${ticks}
 | Screen 1 | Screen 2 | Screen 3 |
 | :---: | :---: | :---: |
 | <img src="assets/Screenshot_1794254033.png" width="220" /> | <img src="assets/Screenshot_1794254103.png" width="220" /> | <img src="assets/Screenshot_1794254120.png" width="220" /> |
+| <img src="assets/Screenshot_1794254131.png" width="220" /> | <img src="assets/Screenshot_1794254150.png" width="220" /> | <img src="assets/Screenshot_1794254174.png" width="220" /> |
 "@ | Set-Content .\README.md -Encoding UTF8
